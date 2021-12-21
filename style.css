@@ -65,7 +65,7 @@ h2{
     background-image: url("media/summer-house.jpg");
     background-position: center;
     background-size: cover;
-    width: 370px;
+    width: 350px;
     height: 300px;
     margin-bottom: 35px;
 }
@@ -73,7 +73,7 @@ h2{
     background-image: url("media/brick-house.jpg");
     background-position: center;
     background-size: cover;
-    width: 370px;
+    width: 350px;
     height: 300px;
     margin-bottom: 35px;
 }
@@ -81,7 +81,7 @@ h2{
     background-image: url("media/renovated-house.jpg");
     background-position: center;
     background-size: cover;
-    width: 370px;
+    width: 350px;
     height: 300px;
     margin-bottom: 35px;
 }
@@ -89,7 +89,7 @@ h2{
     background-image: url("media/barn-house.jpg");
     background-position: center;
     background-size: cover;
-    width: 370px;
+    width: 350px;
     height: 300px;
     margin-bottom: 35px;
 }
@@ -101,7 +101,7 @@ h2{
     margin-top: 0;
 }
 .container2 img{
-    width: 370px
+    width: 100%
 }
 .container2 {
     width: 94%;
